@@ -1,0 +1,45 @@
+table { 
+	border: thin solid #cccccc; 
+	background: #ffffff;
+	 }
+th {
+	 width: 100px;
+	 letter-spacing: 2.5px; background: #eeeeeee; 
+	 color: #000000; 
+	 text-transform: uppercase;
+	 text-align: center;
+ 	 border-top: thick solid #eeeeee;
+ 	 border-bottom: thin solid #cccccc;
+ 	 background-color: #00cccc;
+ 	 }
+tr.head {
+		 letter-spacing: 1.5px;
+		 background: #dddddd; color: #000560; 
+		 text-transform: uppercase; 
+		 border-top: thick solid #eeeeee; 
+		 border-bottom: thin solid #cccccc;
+         }
+tr.body { 
+	background: #ff99ff;
+	color: #cc0066; }
+td {
+	 width: 100px;
+	 border: thin solid #cccccc; 
+	 padding: 10px;
+	}
+
+table: forum{
+	width: 100px;
+}
+.heading {
+	color: #0052cc;
+	background-color: #66d9ff;
+}
+
+.body{
+	background: #ff99ff;
+	color: #cc0066; }
+}
+.com_body{
+	background-color: #ffe6ff;
+}
