@@ -59,19 +59,19 @@ else
 
 <?php
 }
-/*
+
 if(isset($_SESSION['USERNAME']))
 {
 	echo "[<a href='logout.php'>Log out</a>]";
 }
-// next else statement is senseless bcoz we already have form to login!!
-// else
-// { echo "[<a href='login.php'>Log in</a>]"; } 
+
+ else
+ { echo "[<a href='login.php'>Log in</a>]"; } 
 
 if(isset($_SESSION['USERNAME']) )
 	{	echo " - ";
 		echo "[<a href='addentry.php'>Add entry</a>]";
 		echo "[<a href='addcat.php'>Add category</a>]";
-	} */
+	} 
 require("footer.php"); 	
 ?>
